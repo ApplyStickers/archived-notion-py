@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "repositories": {
+    "ApplyStickers/archived-notion-py": {
+      "delivery": "vendored",
+      "default_branch": "master",
+      "deployments": []
+    }
+  }
+}
